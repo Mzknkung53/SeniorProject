@@ -1,0 +1,5 @@
+easyocr
+openai
+pillow
+jupyter
+python-dotenv
